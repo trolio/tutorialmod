@@ -1,14 +1,13 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "tm",
+  "name": "Tutorial Mod",
+  "description": "Tutorial Mod for youtube",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["tr0lio"],
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
